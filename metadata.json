@@ -1,0 +1,5 @@
+{
+  "name": "LinkJob.ai - Smart Job Tracker",
+  "description": "An AI-powered job application tracker that tailors your resume and cover letter for every opportunity using Google Gemini.",
+  "requestFramePermissions": []
+}
